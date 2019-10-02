@@ -185,7 +185,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
 * [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
 * Software Development Process: [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz), [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ), [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs)
-* [Test Automation Universities](https://testautomationu.applitools.com/)
+* [Test Automation Universities](https://testautomationu.applitools.com/) (free)
     - [Java Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-java-path)
     - [Java API Path](https://testautomationu.applitools.com/learningpaths.html?id=api-java-path)
     - [Java Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-java-path)
@@ -373,6 +373,8 @@ If you would like add something, just send the text as you would like it to appe
 # Conferences
 
 * [Software Testing Conferences](http://testingconferences.org/)
+* [OnlineTestConf](https://www.onlinetestconf.com/)
+* [Agile Testing Days](https://agiletestingdays.com/)
 
 # Podcasts
 
